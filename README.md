@@ -1,12 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=SYED%20ALI%20HASSAN%20SUBHANI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%26%20IT%20Professional&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=SYED%20ALI%20HASSAN%20SUBHANI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20IT%20Professional&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=alihassan-subhanii">
     <img src="https://komarev.com/ghpvc/?username=alihassan-subhanii&label=Profile%20views&color=00FFFF&style=flat-square" alt="alihassan-subhanii's profile views" />
   </a>
 </p>
-
-<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Computer Science & IT early-career candidate based in Lahore, Pakistan
@@ -46,9 +44,9 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=alihassan-subhanii&theme=nightowl&radius=10" alt="alihassan-subhanii's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 
 ## 🛠️ Languages & Tools
@@ -95,10 +93,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/syedalihassansubhani/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/447884160271">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:syedalihassansubhani@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
@@ -111,8 +109,3 @@
 </picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/alihassansubhani" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-<div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
-</div>
-
