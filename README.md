@@ -48,22 +48,21 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/alihassan-subhanii">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alihassan-subhanii&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="alihassan-subhanii's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=alihassan-subhanii&theme=nightowl&hide_border=true&cache_seconds=86400" alt="alihassan-subhanii's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=alihassan-subhanii&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SYED ALI HASSAN SUBHANI's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=alihassan-subhanii&theme=nightowl&radius=10" alt="alihassan-subhanii's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+<a href="https://github.com/alihassan-subhanii#gh-dark-mode-only">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=alihassan-subhanii&show_icons=true&layout=compact&theme=nightowl&border_radius=10&cache_seconds=7200#gh-dark-mode-only"
+    height="180"
+    alt="Ali Hassan Subhani's GitHub Stats"
+  />
+</a>
 
+<a href="https://github.com/alihassan-subhanii#gh-light-mode-only">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=alihassan-subhanii&show_icons=true&layout=compact&theme=default&border_radius=10&cache_seconds=7200#gh-light-mode-only"
+    height="180"
+    alt="Ali Hassan Subhani's GitHub Stats"
+  />
+</a>
 
 ## 🛠️ Languages & Tools
 
