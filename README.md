@@ -1,20 +1,10 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:000000,100:a371f7&amp;text=SYED%20ALI%20HASSAN%20SUBHANI&amp;fontSize=60&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Computer%20Science%20%7C%20IT%20Professional&amp;descSize=22&amp;descColor=FFFFFF&amp;descAlignY=65"
-  />
+<a href="https://github.com/alihassan-subhanii#gh-dark-mode-only">
+  <img src="YOUR-DARK-CAPSULE-URL" width="100%" alt="Dark mode header">
+</a>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:F5F5F5,100:D8C2F5&amp;text=SYED%20ALI%20HASSAN%20SUBHANI&amp;fontSize=60&amp;fontColor=1F2328&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Computer%20Science%20%7C%20IT%20Professional&amp;descSize=22&amp;descColor=1F2328&amp;descAlignY=65"
-  />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:F5F5F5,100:D8C2F5&amp;text=SYED%20ALI%20HASSAN%20SUBHANI&amp;fontSize=60&amp;fontColor=1F2328&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Computer%20Science%20%7C%20IT%20Professional&amp;descSize=22&amp;descColor=1F2328&amp;descAlignY=65"
-    width="100%"
-    alt="SYED ALI HASSAN SUBHANI — Computer Science | IT Professional"
-  />
-</picture>
+<a href="https://github.com/alihassan-subhanii#gh-light-mode-only">
+  <img src="YOUR-LIGHT-CAPSULE-URL" width="100%" alt="Light mode header">
+</a>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=alihassan-subhanii">
