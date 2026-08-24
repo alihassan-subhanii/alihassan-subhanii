@@ -1,9 +1,19 @@
+<!-- DARK MODE HEADER -->
 <a href="https://github.com/alihassan-subhanii#gh-dark-mode-only">
-  <img src="YOUR-DARK-CAPSULE-URL" width="100%" alt="Dark mode header">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=SYED%20ALI%20HASSAN%20SUBHANI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20IT%20Professional&descSize=22&descColor=FFFFFF&descAlignY=65#gh-dark-mode-only"
+    width="100%"
+    alt="SYED ALI HASSAN SUBHANI — Computer Science | IT Professional"
+  />
 </a>
 
+<!-- LIGHT MODE HEADER -->
 <a href="https://github.com/alihassan-subhanii#gh-light-mode-only">
-  <img src="YOUR-LIGHT-CAPSULE-URL" width="100%" alt="Light mode header">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:F5F5F5,100:D8C2F5&text=SYED%20ALI%20HASSAN%20SUBHANI&fontSize=60&fontColor=1F2328&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20IT%20Professional&descSize=22&descColor=1F2328&descAlignY=65#gh-light-mode-only"
+    width="100%"
+    alt="SYED ALI HASSAN SUBHANI — Computer Science | IT Professional"
+  />
 </a>
 
 <p align="center">
