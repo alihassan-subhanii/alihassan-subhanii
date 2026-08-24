@@ -1,4 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=SYED%20ALI%20HASSAN%20SUBHANI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20IT%20Professional&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:000000,100:a371f7&amp;text=SYED%20ALI%20HASSAN%20SUBHANI&amp;fontSize=60&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Computer%20Science%20%7C%20IT%20Professional&amp;descSize=22&amp;descColor=FFFFFF&amp;descAlignY=65"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:F5F5F5,100:D8C2F5&amp;text=SYED%20ALI%20HASSAN%20SUBHANI&amp;fontSize=60&amp;fontColor=1F2328&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Computer%20Science%20%7C%20IT%20Professional&amp;descSize=22&amp;descColor=1F2328&amp;descAlignY=65"
+  />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:F5F5F5,100:D8C2F5&amp;text=SYED%20ALI%20HASSAN%20SUBHANI&amp;fontSize=60&amp;fontColor=1F2328&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Computer%20Science%20%7C%20IT%20Professional&amp;descSize=22&amp;descColor=1F2328&amp;descAlignY=65"
+    width="100%"
+    alt="SYED ALI HASSAN SUBHANI — Computer Science | IT Professional"
+  />
+</picture>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=alihassan-subhanii">
